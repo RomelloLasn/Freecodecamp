@@ -1,0 +1,5 @@
+.image-wrapper{
+
+display: grid;
+
+}
